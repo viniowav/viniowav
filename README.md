@@ -1,4 +1,6 @@
-## Hi there 👋
+## hi my name is vinicius
+
+i am currently working on improving myself.
 
 <!--
 **viniowav/viniowav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
