@@ -4,7 +4,8 @@ i am currently working on improving myself as a developer.
 
 
 contact me:
-https://instagram.com/vinio.wav
-https://twitter.com/viniowav
-https://linkedin.com/in/viniciusmachadoalves
-viniciusmachadoalves16@gmail.com
+
+instagram: https://instagram.com/vinio.wav
+twitter: https://twitter.com/viniowav
+linkedin: https://linkedin.com/in/viniciusmachadoalves
+email: viniciusmachadoalves16@gmail.com
