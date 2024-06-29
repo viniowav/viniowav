@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=jet+brains&weight=900&size=25&pause=19000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=hi+my+name+is+vin%C3%ADcius+machado." alt="hi my name is vinícius machado." />
 </p>
 <p align="center">
-  <i>always working on improving myself as a developer.</i><br>
+  <i>Despite everything, it's still you.</i><br>
   
 </p>
 <p align="center">
@@ -30,4 +30,3 @@
     </a>
 </p>
 
-Despite everything, it's still you.
