@@ -29,3 +29,5 @@
         <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=viniciusmachadoalves16@gmail.com" />
     </a>
 </p>
+
+Despite everything, it's still you.
