@@ -5,8 +5,8 @@
   <i>42</i><br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniowav&theme=dark&show_icons=true&hide_border=true&count_private=true)" alt="Github Status for Vinícius Machado" /> 
-  <img width="41%" height="195px" src="https://readme-status-saulojoab.vercel.app/api/top-langs/?username=viniowav&count_private=true&hide=java,makefile,jupyter+notebook&layout=compact&hide_border=true&title_color=FFFFFF&text_color=76A6DD&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniowav&theme=default&show_icons=true&hide_border=true&count_private=true)" alt="Github Status for Vinícius Machado" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniowav&theme=default&show_icons=true&hide_border=true&layout=compact)" />
 </div><br>
 
 <p align="center">
