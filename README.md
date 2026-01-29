@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=hi%2C+my+name+is+Vin%C3%ADcius." alt="hi my name is vinícius machado." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=hi%2C+my+name+is+Vin%C3%ADcius." alt="hi my name is vinícius." />
 </p>
 <p align="center">
   <i>42</i><br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniowav&theme=default&show_icons=true&hide_border=true&count_private=true)" alt="Github Status for Vinícius Machado" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniowav&theme=default&show_icons=true&hide_border=true&layout=compact)" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniowav&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Github Status for Vinícius Machado" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniowav&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </div><br>
 
 <p align="center">
