@@ -12,7 +12,7 @@
 
 <p align="center">
     <i>contacts:</i><br><br>
-    <a href="http://www.linkedin.com/in/viníciusmachadoalves" target="_blank">
+    <a href="https://www.linkedin.com/in/viniciusmachadoalves/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vin%C3%ADciusmachadoalves/"/>
     </a>
     <a href="mailto:viniciusmachadoalves16@gmail.com">
