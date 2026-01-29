@@ -2,7 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=hi%2C+my+name+is+vinicius." alt="hi my name is vinícius." />
 </p>
 <p align="center">
-  <i>42</i><br>
+  <i>Não entre em pânico.</i><br>
+  <i>42.</i><br>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniowav&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Github Status for Vinícius Machado" /> 
