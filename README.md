@@ -4,12 +4,6 @@
 <p align="center">
   <i>Não entre em pânico.</i><br>
   <i>42.</i><br>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniowav&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Github Status for Vinícius Machado" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniowav&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
-</div><br>
-
 <p align="center">
     <i>contacts:</i><br><br>
     <a href="https://www.linkedin.com/in/viniciusmachadoalves/" target="_blank">
